@@ -31,5 +31,8 @@ I am a software engineer passionate about backend development. With 2 years of e
 
 - **LinkedIn:** https://www.linkedin.com/in/brian-mungai-0911181b8
 
+## Blog
+- **TeaCP:** https://www.teacp.wordpress.com
+
 
 Feel free to reach out to me for collaboration, project ideas, or just to say hi!
